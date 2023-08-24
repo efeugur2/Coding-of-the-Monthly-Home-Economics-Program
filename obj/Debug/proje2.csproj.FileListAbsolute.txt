@@ -1,0 +1,5 @@
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\proje2\bin\Debug\proje2.exe
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\proje2\bin\Debug\proje2.pdb
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\proje2\obj\Debug\proje2.exe
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\proje2\obj\Debug\proje2.pdb
